@@ -1,1 +1,3 @@
 # bui_CSCI2270_FinalProject
+
+For my idea of the project, I was thinking about creating a route creator for a delivery/ups truck. The main data stucture that will be used is graphs linking different nodes and giving edge values. Then I'm planning to various algorithms to create different paths for the truck. The first algorithm will be the Dijkstra, then a method that blindly follows the short path from a to b, and lastly a brute force method. I'll be attempting to keep track of distance traveled and how much calculation had to be done for each algorithm. I was thinking of using either arrays or linked list as a way to save the total paths (algorithm outputs) that will be traversed.
